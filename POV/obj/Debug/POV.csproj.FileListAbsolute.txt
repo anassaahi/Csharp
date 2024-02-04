@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD week 3\POV\bin\Debug\POV.exe.config
+D:\for study\Study2ndSemester\OOP\PD week 3\POV\bin\Debug\POV.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\POV\bin\Debug\POV.pdb
+D:\for study\Study2ndSemester\OOP\PD week 3\POV\obj\Debug\POV.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\POV\obj\Debug\POV.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\POV\obj\Debug\POV.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\POV\obj\Debug\POV.pdb
