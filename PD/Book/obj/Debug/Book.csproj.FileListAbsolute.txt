@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Book\bin\Debug\Book.exe.config
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Book\bin\Debug\Book.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Book\bin\Debug\Book.pdb
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Book\obj\Debug\Book.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Book\obj\Debug\Book.pdb
