@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD week 2\OOPselfassesment\bin\Debug\OOPselfassesment.exe.config
+D:\for study\Study2ndSemester\OOP\PD week 2\OOPselfassesment\bin\Debug\OOPselfassesment.exe
+D:\for study\Study2ndSemester\OOP\PD week 2\OOPselfassesment\bin\Debug\OOPselfassesment.pdb
+D:\for study\Study2ndSemester\OOP\PD week 2\OOPselfassesment\obj\Debug\OOPselfassesment.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD week 2\OOPselfassesment\obj\Debug\OOPselfassesment.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD week 2\OOPselfassesment\obj\Debug\OOPselfassesment.exe
+D:\for study\Study2ndSemester\OOP\PD week 2\OOPselfassesment\obj\Debug\OOPselfassesment.pdb

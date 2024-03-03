@@ -1,0 +1,10 @@
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\obj\Debug\Gameincsharp.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\obj\Debug\Gameincsharp.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\bin\Debug\Gameincsharp.exe.config
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\bin\Debug\Gameincsharp.exe
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\bin\Debug\Gameincsharp.pdb
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\bin\Debug\EZInput.dll
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\bin\Debug\EZInput.xml
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\obj\Debug\Gameincsharp.csproj.CopyComplete
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\obj\Debug\Gameincsharp.exe
+D:\for study\Study2ndSemester\OOP\PD\Gameincsharp\obj\Debug\Gameincsharp.pdb

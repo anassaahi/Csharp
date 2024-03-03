@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD week 3\Challange3\bin\Debug\Challange3.exe.config
+D:\for study\Study2ndSemester\OOP\PD week 3\Challange3\bin\Debug\Challange3.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\Challange3\bin\Debug\Challange3.pdb
+D:\for study\Study2ndSemester\OOP\PD week 3\Challange3\obj\Debug\Challange3.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\Challange3\obj\Debug\Challange3.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\Challange3\obj\Debug\Challange3.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\Challange3\obj\Debug\Challange3.pdb

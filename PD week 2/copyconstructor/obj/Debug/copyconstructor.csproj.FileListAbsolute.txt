@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD week 2\copyconstructor\bin\Debug\copyconstructor.exe.config
+D:\for study\Study2ndSemester\OOP\PD week 2\copyconstructor\bin\Debug\copyconstructor.exe
+D:\for study\Study2ndSemester\OOP\PD week 2\copyconstructor\bin\Debug\copyconstructor.pdb
+D:\for study\Study2ndSemester\OOP\PD week 2\copyconstructor\obj\Debug\copyconstructor.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD week 2\copyconstructor\obj\Debug\copyconstructor.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD week 2\copyconstructor\obj\Debug\copyconstructor.exe
+D:\for study\Study2ndSemester\OOP\PD week 2\copyconstructor\obj\Debug\copyconstructor.pdb

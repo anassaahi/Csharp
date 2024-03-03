@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\for study\Study2ndSemester\OOP\PD\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\for study\Study2ndSemester\OOP\PD\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\for study\Study2ndSemester\OOP\PD\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\for study\Study2ndSemester\OOP\PD\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

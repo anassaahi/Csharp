@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD week 2\ooplab2\bin\Debug\ooplab2.exe.config
+D:\for study\Study2ndSemester\OOP\PD week 2\ooplab2\bin\Debug\ooplab2.exe
+D:\for study\Study2ndSemester\OOP\PD week 2\ooplab2\bin\Debug\ooplab2.pdb
+D:\for study\Study2ndSemester\OOP\PD week 2\ooplab2\obj\Debug\ooplab2.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD week 2\ooplab2\obj\Debug\ooplab2.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD week 2\ooplab2\obj\Debug\ooplab2.exe
+D:\for study\Study2ndSemester\OOP\PD week 2\ooplab2\obj\Debug\ooplab2.pdb

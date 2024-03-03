@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Calculatortask2\bin\Debug\Calculatortask2.exe.config
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Calculatortask2\bin\Debug\Calculatortask2.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Calculatortask2\bin\Debug\Calculatortask2.pdb
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Calculatortask2\obj\Debug\Calculatortask2.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Calculatortask2\obj\Debug\Calculatortask2.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Calculatortask2\obj\Debug\Calculatortask2.exe
+D:\for study\Study2ndSemester\OOP\PD week 3\PD\Calculatortask2\obj\Debug\Calculatortask2.pdb
