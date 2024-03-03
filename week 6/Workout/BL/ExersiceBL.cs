@@ -4,17 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Workout.BL
+namespace Workout
 {
-    internal class ExersiceBL
+    internal class ExerciseBL
     {
         private string Name;
         private List<SetBL> ExerciseSets;
 
-        public ExersiceBL(string name, List<SetBL> exerciseSets)
+        public ExerciseBL(string name, List<SetBL> exerciseSets)
         {
             Name = name;
             ExerciseSets = exerciseSets;
+        }
+        public ExerciseBL(string name)
+        {
+            Name = name;
         }
 
         public void SetName(string name)
@@ -41,6 +45,7 @@ namespace Workout.BL
         {
             return this.ExerciseSets;
         }
+
 
     }
 }

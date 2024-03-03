@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Workout.BL
+namespace Workout
 {
     internal class SetBL
     {
@@ -38,4 +38,5 @@ namespace Workout.BL
         }
 
     }
+
 }

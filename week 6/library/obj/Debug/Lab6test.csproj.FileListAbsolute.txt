@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\week 6\Lab6test\bin\Debug\Lab6test.exe.config
+D:\for study\Study2ndSemester\OOP\week 6\Lab6test\bin\Debug\Lab6test.exe
+D:\for study\Study2ndSemester\OOP\week 6\Lab6test\bin\Debug\Lab6test.pdb
+D:\for study\Study2ndSemester\OOP\week 6\Lab6test\obj\Debug\Lab6test.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\week 6\Lab6test\obj\Debug\Lab6test.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\week 6\Lab6test\obj\Debug\Lab6test.exe
+D:\for study\Study2ndSemester\OOP\week 6\Lab6test\obj\Debug\Lab6test.pdb
