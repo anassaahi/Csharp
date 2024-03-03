@@ -1,0 +1,7 @@
+D:\for study\Study2ndSemester\OOP\application\Applicationinc#\obj\Debug\Applicationinc#.csproj.AssemblyReference.cache
+D:\for study\Study2ndSemester\OOP\application\Applicationinc#\obj\Debug\Applicationinc#.csproj.CoreCompileInputs.cache
+D:\for study\Study2ndSemester\OOP\application\Applicationinc#\bin\Debug\Applicationinc#.exe.config
+D:\for study\Study2ndSemester\OOP\application\Applicationinc#\bin\Debug\Applicationinc#.exe
+D:\for study\Study2ndSemester\OOP\application\Applicationinc#\bin\Debug\Applicationinc#.pdb
+D:\for study\Study2ndSemester\OOP\application\Applicationinc#\obj\Debug\Applicationinc#.exe
+D:\for study\Study2ndSemester\OOP\application\Applicationinc#\obj\Debug\Applicationinc#.pdb
