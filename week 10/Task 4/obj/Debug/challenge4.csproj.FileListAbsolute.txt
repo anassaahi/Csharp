@@ -1,0 +1,14 @@
+D:\UET\OOP\Lab\lab 8\challenge4\obj\Debug\challenge4.csproj.AssemblyReference.cache
+D:\UET\OOP\Lab\lab 8\challenge4\obj\Debug\challenge4.csproj.CoreCompileInputs.cache
+D:\UET\OOP\Lab\lab 8\challenge4\bin\Debug\challenge4.exe.config
+D:\UET\OOP\Lab\lab 8\challenge4\bin\Debug\challenge4.exe
+D:\UET\OOP\Lab\lab 8\challenge4\bin\Debug\challenge4.pdb
+D:\UET\OOP\Lab\lab 8\challenge4\obj\Debug\challenge4.exe
+D:\UET\OOP\Lab\lab 8\challenge4\obj\Debug\challenge4.pdb
+D:\for study\2nd Semester\OOP\week 10\Task 4\bin\Debug\challenge4.exe.config
+D:\for study\2nd Semester\OOP\week 10\Task 4\bin\Debug\challenge4.exe
+D:\for study\2nd Semester\OOP\week 10\Task 4\bin\Debug\challenge4.pdb
+D:\for study\2nd Semester\OOP\week 10\Task 4\obj\Debug\challenge4.csproj.AssemblyReference.cache
+D:\for study\2nd Semester\OOP\week 10\Task 4\obj\Debug\challenge4.csproj.CoreCompileInputs.cache
+D:\for study\2nd Semester\OOP\week 10\Task 4\obj\Debug\challenge4.exe
+D:\for study\2nd Semester\OOP\week 10\Task 4\obj\Debug\challenge4.pdb

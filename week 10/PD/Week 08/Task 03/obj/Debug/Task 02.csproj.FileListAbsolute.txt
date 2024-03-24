@@ -1,0 +1,7 @@
+C:\Users\Aamir Hashmi\source\repos\Task 02\bin\Debug\Task 02.exe.config
+C:\Users\Aamir Hashmi\source\repos\Task 02\bin\Debug\Task 02.exe
+C:\Users\Aamir Hashmi\source\repos\Task 02\bin\Debug\Task 02.pdb
+C:\Users\Aamir Hashmi\source\repos\Task 02\obj\Debug\Task 02.csproj.AssemblyReference.cache
+C:\Users\Aamir Hashmi\source\repos\Task 02\obj\Debug\Task 02.csproj.CoreCompileInputs.cache
+C:\Users\Aamir Hashmi\source\repos\Task 02\obj\Debug\Task 02.exe
+C:\Users\Aamir Hashmi\source\repos\Task 02\obj\Debug\Task 02.pdb

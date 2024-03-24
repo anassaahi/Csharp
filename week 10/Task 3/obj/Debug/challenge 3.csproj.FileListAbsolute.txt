@@ -1,0 +1,7 @@
+D:\UET\OOP\Lab\lab 8\challenge 3\bin\Debug\challenge 3.exe.config
+D:\UET\OOP\Lab\lab 8\challenge 3\bin\Debug\challenge 3.exe
+D:\UET\OOP\Lab\lab 8\challenge 3\bin\Debug\challenge 3.pdb
+D:\UET\OOP\Lab\lab 8\challenge 3\obj\Debug\challenge 3.csproj.AssemblyReference.cache
+D:\UET\OOP\Lab\lab 8\challenge 3\obj\Debug\challenge 3.csproj.CoreCompileInputs.cache
+D:\UET\OOP\Lab\lab 8\challenge 3\obj\Debug\challenge 3.exe
+D:\UET\OOP\Lab\lab 8\challenge 3\obj\Debug\challenge 3.pdb

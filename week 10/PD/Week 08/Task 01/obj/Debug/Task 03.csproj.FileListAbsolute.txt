@@ -1,0 +1,15 @@
+E:\Task 03\bin\Debug\Task 03.exe.config
+E:\Task 03\bin\Debug\Task 03.exe
+E:\Task 03\bin\Debug\Task 03.pdb
+E:\Task 03\obj\Debug\Task 03.csproj.AssemblyReference.cache
+E:\Task 03\obj\Debug\Task 03.csproj.SuggestedBindingRedirects.cache
+E:\Task 03\obj\Debug\Task 03.csproj.CoreCompileInputs.cache
+E:\Task 03\obj\Debug\Task 03.exe
+E:\Task 03\obj\Debug\Task 03.pdb
+G:\Task 01\obj\Debug\Task 03.csproj.AssemblyReference.cache
+G:\Task 01\obj\Debug\Task 03.csproj.CoreCompileInputs.cache
+G:\Task 01\obj\Debug\Task 03.exe
+G:\Task 01\obj\Debug\Task 03.pdb
+G:\Task 01\bin\Debug\Task 03.exe.config
+G:\Task 01\bin\Debug\Task 03.exe
+G:\Task 01\bin\Debug\Task 03.pdb
